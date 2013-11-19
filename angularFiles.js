@@ -19,6 +19,7 @@ angularFiles = {
     'src/ng/location.js',
     'src/ng/log.js',
     'src/ng/parse.js',
+    'src/ng/parse.p.js',
     'src/ng/q.js',
     'src/ng/route.js',
     'src/ng/routeParams.js',
